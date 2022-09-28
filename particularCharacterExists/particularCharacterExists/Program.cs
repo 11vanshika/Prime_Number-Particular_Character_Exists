@@ -10,7 +10,7 @@ namespace particularCharacterExists
     {
         static void Main(string[] args)
         {
-            
+            int count = 0;
             Console.WriteLine("Enter string");
             string str1 = Console.ReadLine();
             Console.WriteLine("Enter Character which you find");
@@ -22,9 +22,12 @@ namespace particularCharacterExists
                 if(chars[i] == checkValue)
                 {
                     Console.WriteLine("Character is present :" + i);
+                    count++;
                 }
             }
+            if(count==0){
             Console.WriteLine("Character is not present");
+            }
         }
     }
 }
