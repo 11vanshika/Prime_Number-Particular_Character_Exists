@@ -1,0 +1,8 @@
+C:\project\particularCharacterExists\particularCharacterExists\bin\Debug\particularCharacterExists.exe.config
+C:\project\particularCharacterExists\particularCharacterExists\bin\Debug\particularCharacterExists.exe
+C:\project\particularCharacterExists\particularCharacterExists\bin\Debug\particularCharacterExists.pdb
+C:\project\particularCharacterExists\particularCharacterExists\obj\Debug\particularCharacterExists.csproj.AssemblyReference.cache
+C:\project\particularCharacterExists\particularCharacterExists\obj\Debug\particularCharacterExists.csproj.SuggestedBindingRedirects.cache
+C:\project\particularCharacterExists\particularCharacterExists\obj\Debug\particularCharacterExists.csproj.CoreCompileInputs.cache
+C:\project\particularCharacterExists\particularCharacterExists\obj\Debug\particularCharacterExists.exe
+C:\project\particularCharacterExists\particularCharacterExists\obj\Debug\particularCharacterExists.pdb
